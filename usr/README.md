@@ -1,4 +1,4 @@
-# couldai_user_app
+# Kyssem Signer
 
 A new Flutter project.
 
